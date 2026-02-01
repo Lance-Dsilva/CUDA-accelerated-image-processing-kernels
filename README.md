@@ -1,4 +1,5 @@
-# CUDA-Accelerated-High-Performance-Library
+# CUDA Accelerated Image Processing Kernels
+
 
 CUDA lab project for matrix multiplication (CPU, naive CUDA, optimized CUDA, cuBLAS) and image convolution (CPU/GPU), plus a CUDA shared library callable from Python.
 
